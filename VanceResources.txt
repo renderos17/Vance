@@ -1,0 +1,6 @@
+Using this file to dump any cool resources I find during my exploration of the Spotify web API. I'll update this relatively frequently with links, notes and other musings.
+
+
+https://developer.spotify.com/documentation/web-api/quick-start/
+
+https://developer.spotify.com/dashboard/
