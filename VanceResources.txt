@@ -4,3 +4,7 @@ Using this file to dump any cool resources I find during my exploration of the S
 https://developer.spotify.com/documentation/web-api/quick-start/
 
 https://developer.spotify.com/dashboard/
+
+https://developer.spotify.com/documentation/web-api/libraries/
+
+https://docs.genius.com/
